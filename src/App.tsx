@@ -2,7 +2,6 @@ import { Globe, BarChart } from './components'
 import { random_rgba, getSortedYear } from './utils'
 import './App.css'
 import { Get } from './api'
-import { data } from './interfaces'
 import {CountryInfo} from './interfaces/Country'
 import {useEffect, useState} from 'react'
 
